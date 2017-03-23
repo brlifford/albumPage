@@ -1,0 +1,18 @@
+<HTML>
+	<head>
+		<title> Title of Album </title>
+	</head>
+
+	<body>
+		<h1>Title of Album</h1>
+		<h2>Band Name</h2>
+		<h3>Release Date</h3>
+			<p>Paragraph of text for description of the album.</p>
+		<h2>Band Members</h2>
+			<ol>Person One - Lead Vocals
+			Person Two - Guitar
+			Person Three - Acoustic Guitar, Backup Vocals
+			Person Four - Drums
+			Person Five - Bass, Backup Vocals</ol>
+	</body>
+</HTML>
