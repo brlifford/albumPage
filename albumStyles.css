@@ -1,14 +1,27 @@
-
+.albumCover{
+			background: url("https://upload.wikimedia.org/wikipedia/en/9/93/Pharmacy_by_Galantis.jpg") no-repeat;
+			width: Auto;
+			height: 600px;
+			background-position: center;
+}
 
 body {
 	text-align: center;
 }
 
-a {
-	text-decoration: none;
+
+table.center {
+	margin-left:auto;
+	margin-right:auto;
 }
 
-a: hover {
-	text-decoration: underline;
+table, th, td {
+	border-collapse: collapse;
+	border: solid black 2px;
 }
 
+
+ul.leftAlign {
+	text-align: left;
+	padding-left: 25%;
+}
