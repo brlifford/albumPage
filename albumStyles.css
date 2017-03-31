@@ -3,32 +3,13 @@
 			width: Auto;
 			height: 600px;
 			background-position: center;
+			
 }
 
 body {
 	text-align: center;
 }
 
-
-table.center {
-	margin-left:auto;
-	margin-right:auto;
-}
-
-table, th, td {
-	border-collapse: collapse;
-	border: solid black 2px;
-	
-	
-
-}
-
-table, td {
-	background-color: Lavender;
-}
-table {
-	width: 100%;
-}
 
 td {
 	font-style: italic;
